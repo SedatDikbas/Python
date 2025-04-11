@@ -1,2 +1,3 @@
 # Python
-Kendimce Yaptığım Python Çalışmaları
+Veri Biliminde Yaptığım Çalışmalar
+
